@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: #111;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+#gameCanvas {
+    display: block;
+    background: #222;
+    /* will be sized by script to fill window */
+}
+
